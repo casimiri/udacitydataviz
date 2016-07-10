@@ -10,7 +10,7 @@ The original data is already cleaned.
 
 ####Chart Selections:
 
-While exploring the data, I believed that female passengers will have a better survival rate than male passengers. I also want to highlight the fact that the better the passenger class, the luckier a passenger got to survive. I am then dealing with comparative data.
+While exploring the data, I believed that female passengers will have a better survival rate than male passengers. I also want to highlight the fact that the better a passenger's class, the luckier the passenger got to survive. I am then dealing with comparative data.
 I have tried Pie, line charts, and scatter plots, but they are appealing for comparative data. 
 
 As we have a comparative data that we would like to represent through a chart then a bar chart would be the best option. This type of chart is one of the more familiar options as it is easy to interpret. These charts are useful for displaying data that is classified into nominal (female, male passengers) or odinal categories (1st class, 2nd class, 3rd class).
