@@ -1,17 +1,20 @@
 ###VARIABLE DESCRIPTIONS:
-survival        Survival
+Survived 		Survival
                 (0 = No; 1 = Yes)
-pclass          Passenger Class
+
+Pclass          Passenger Class
                 (1 = 1st; 2 = 2nd; 3 = 3rd)
-name            Name
-sex             Sex
-age             Age
-sibsp           Number of Siblings/Spouses Aboard
-parch           Number of Parents/Children Aboard
-ticket          Ticket Number
-fare            Passenger Fare
-cabin           Cabin
-embarked        Port of Embarkation
+
+
+Name            Name
+Sex             Sex
+Age             Age
+SibSp           Number of Siblings/Spouses Aboard
+Parch           Number of Parents/Children Aboard
+Ticket          Ticket Number
+Fare            Passenger Fare
+Cabin           Cabin
+Embarked        Port of Embarkation
                 (C = Cherbourg; Q = Queenstown; S = Southampton)
 
 SPECIAL NOTES:
