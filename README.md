@@ -21,9 +21,9 @@ The following three bar charts are used to show the differences in survival rate
 ####Bar chart for survival rate per Gender: 
 x position: passenger gender.
 
-y position: the count of passengers.
+y position: the percentage of survived per gender.
 
-color hue: survived or perished.
+color hue: Gender.
 
 ####Bar chart for survival rate per Gender per Passenger Class:
 x position: Gender grouped by Passenger Class.
