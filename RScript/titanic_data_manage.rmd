@@ -1,0 +1,2 @@
+#Read the ti
+titanic_data <- read.csv("/Users/casimircompaore/Downloads/titanic_data.csv")
