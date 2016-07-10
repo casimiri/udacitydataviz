@@ -48,7 +48,7 @@ dimple.js is the primary visual library used in creating these charts. One of th
 I have received feedbacks from three people and have taken corrective actions as explained below.
 
 ####Feedback1: To display percentage of survival instead of count
-I initially displayed the count of survivors for the three charts. But the count doesn't provive information with regards to the population. I have then changed the charts to display percentage of survivors. Please visit initial charts from index-init.html.
+I initially displayed the count of survivors for the three charts. But the count doesn't provide relative information to the total number of people in a categary (gender, gender per Class). I have then changed the charts to display percentage of survivors in each category (gender, gender per Class, gender per number of Siblings/Spouses). Please visit initial charts from index-init.html.
 
 ####Feedback2: Add titles for axis and chart
 I initially didn't display human readable title for the axis. The default variable names were displayed. And each chart were missing a descriptive title. I have then added descriptive titles to the charts axis and to each chart itself. Please visit initial charts from index-init.html.
